@@ -5,6 +5,9 @@ cmake-build-release/
 cmake-build-*/
 out/
 
+*.md
+!README.md
+
 # Visual Studio artifacts
 .vs/
 *.sln
