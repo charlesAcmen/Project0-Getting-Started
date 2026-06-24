@@ -7,6 +7,7 @@ out/
 
 *.md
 !README.md
+!INSTRUCTION.md
 
 # Visual Studio artifacts
 .vs/
